@@ -1,7 +1,7 @@
 export const skillsData = [
   {
     name: 'Frontend',
-    items: ['React', 'Vue.js', 'TypeScript', 'Next.js', 'Tailwind CSS']
+    items: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS']
   },
   {
     name: 'Backend',
@@ -9,26 +9,26 @@ export const skillsData = [
   },
   {
     name: 'DevOps',
-    items: ['Docker', 'AWS', 'CI/CD', 'Vercel', 'Netlify']
+    items: [ 'AWS', 'CI/CD', 'Vercel', 'Netlify', 'Runpod', 'Azure']
   },
   {
     name: 'AI/ML',
-    items: ['TensorFlow', 'OpenAI API', 'Natural Language Processing', 'Computer Vision']
+    items: ['Fal AI', 'OpenAI API', 'Natural Language Processing', 'Google Computer Vision']
   },
   {
     name: 'UI/UX',
-    items: ['Figma', 'Adobe XD', 'Responsive Design', 'Accessibility']
+    items: ['Figma', 'Responsive Design', 'Accessibility']
   },
   {
     name: 'Tools',
-    items: ['Git', 'GitHub', 'VS Code', 'Jira', 'Postman']
+    items: ['Git', 'GitHub', 'VS Code', 'Cursor', 'Postman']
   },
   {
     name: 'Mobile',
-    items: ['React Native', 'Flutter', 'iOS', 'Android']
+    items: ['React Native', 'Expo']
   },
   {
     name: 'Other',
-    items: ['GraphQL', 'REST APIs', 'WebSockets', 'Firebase', 'MongoDB']
+    items: ['REST APIs', 'WebSockets', 'Firebase', 'MongoDB']
   }
 ];
