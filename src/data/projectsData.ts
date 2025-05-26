@@ -10,31 +10,31 @@ export const projectsData: Project[] = [
       'https://images.pexels.com/photos/3368816/pexels-photo-3368816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
       'https://images.pexels.com/photos/6131576/pexels-photo-6131576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750'
     ],
-    liveUrl: 'https://storypals.example.com',
-    githubUrl: 'https://github.com/example/storypals'
+    liveUrl: 'https://storypals.netlify.app',
+    githubUrl: 'https://github.com/jensshum/interactive_childrens_book'
   },
   {
     id: 2,
     title: 'learnsyncAI',
     description: 'A social learning platform that leverages AI to connect students and provide personalized educational resources.',
-    technologies: ['Next.js', 'Firebase', 'Machine Learning', 'Vercel', 'Chakra UI'],
+    technologies: ['React', 'TypeScript', 'NextJS', 'OpenAI', 'Fal AI image generation', 'Fal AI video generation'],
     images: [
       'https://images.pexels.com/photos/5427862/pexels-photo-5427862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
       'https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750'
     ],
-    liveUrl: 'https://learnsyncai.example.com',
-    githubUrl: 'https://github.com/example/learnsyncai'
+    liveUrl: 'https://learnsyncai.netlify.app',
+    githubUrl: 'https://github.com/jensshum/ai_learning_app'
   },
   {
     id: 3,
-    title: 'InstaReel',
-    description: 'An automated tool that generates high-converting Instagram ads using AI-powered copy and design suggestions.',
-    technologies: ['Vue.js', 'Python', 'AWS', 'TensorFlow', 'Figma'],
+    title: 'HowtoAI',
+    description: 'A simple AI tool that creates simple step by step walkthroughs for general tasks complete with image and text generation.',
+    technologies: ['React', 'TypeScript', 'ChatGPT', 'GitHub', 'Bolt.new'],
     images: [
       'https://images.pexels.com/photos/4549408/pexels-photo-4549408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
       'https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750'
     ],
-    liveUrl: 'https://instareel.example.com',
-    githubUrl: 'https://github.com/example/instareel'
+    liveUrl: 'https://howtoai.netlify.app',
+    githubUrl: 'https://github.com/jensshum/howto-guide-redo'
   }
 ];
