@@ -42,16 +42,16 @@ const Hero = () => {
             I build things for the web.
           </h2>
           <p className="text-lg text-slate-600 dark:text-slate-400 mb-8 max-w-2xl animate-on-scroll opacity-0 transition-opacity duration-700 delay-900">
-            I'm a software developer specializing in creating exceptional digital
-            experiences. Currently, I'm focused on building accessible,
-            human-centered products using the latest web technologies.
+          As a software developer passionate about learning new technologies, I'm excited to join the Bolt community as a mentor. I want to help both new and experienced developers build their first web apps and overcome the common struggles I faced when learning to code.<br></br>
+My background in sales and customer service taught me to put the customer first—a mindset that translates perfectly to helping struggling developers. I've coded dozens of projects solo and as part of teams, building applications used by thousands of users.<br></br>
+This combination of people skills and hands-on technical experience allows me to mentor with both empathy and practical insight, helping developers grow their skills and build amazing web applications.
           </p>
           <div className="animate-on-scroll opacity-0 transition-opacity duration-700 delay-1000">
             <a
-              href="#projects"
+              href="https://www.loom.com/share/b671d1fdc2804e0a8e3c8b718beda7d8"
               className="inline-flex items-center gap-2 bg-teal-500 hover:bg-teal-600 dark:bg-teal-600 dark:hover:bg-teal-700 text-white px-6 py-3 rounded-md font-medium transition-colors group"
             >
-              View my work
+              My Loom Video
               <ArrowRight
                 size={18}
                 className="transform group-hover:translate-x-1 transition-transform"

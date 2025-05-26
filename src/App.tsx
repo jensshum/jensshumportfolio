@@ -41,7 +41,7 @@ function App() {
           <Hero />
           <Projects />
           <Skills />
-          <Contact />
+
         </main>
         <Footer />
       </div>
